@@ -1,6 +1,7 @@
 # Banana Ripening and Taste Experiment
 Authors:
 Chengyu Cui, Liza Kostina, Ashlan Simpson, Daniel Zou
+
 Date: October 2024
 
 ## Objective
