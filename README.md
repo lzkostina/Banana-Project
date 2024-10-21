@@ -8,8 +8,8 @@ Date: October 2024
 
 This project is an experiment designed to investigate the effects of two treatments on banana ripeness and taste:
 
-Treatment 1: Storing bananas in a brown paper bag.
-Treatment 2: Baking bananas for 5 minutes at 300 degrees Fahrenheit.
+#### Treatment 1: Storing bananas in a brown paper bag.
+#### Treatment 2: Baking bananas for 5 minutes at 300 degrees Fahrenheit.
 The primary goal is to determine whether these treatments impact banana ripeness and taste, and if there is any interaction effect between the two treatments.
 
 ## Hypotheses
