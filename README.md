@@ -15,11 +15,11 @@ The primary goal is to determine whether these treatments impact banana ripeness
 
 We have formulated five hypotheses:
 
-H1: The paper bag treatment impacts ripeness.
-H2: Baking bananas for 5 minutes at 300 degrees impacts ripeness.
-H3: There is an interaction effect between the paper bag and baking treatments.
-H4: The paper bag treatment does not negatively impact taste.
-H5: Baking bananas does not negatively impact taste.
+#### H1: The paper bag treatment impacts ripeness.
+#### H2: Baking bananas for 5 minutes at 300 degrees impacts ripeness.
+#### H3: There is an interaction effect between the paper bag and baking treatments.
+#### H4: The paper bag treatment does not negatively impact taste.
+#### H5: Baking bananas does not negatively impact taste.
 
 ## Experimental Design
 
